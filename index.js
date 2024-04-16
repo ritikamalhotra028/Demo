@@ -1,5 +1,5 @@
-console.log("Hello")
-function findCount(){
-    console.log("find count running")
-}
-findCount()
+function printDetails(){
+    console.log("Namastey India")
+    console.log("Hello EveryOne")
+    }
+    printDetails()
